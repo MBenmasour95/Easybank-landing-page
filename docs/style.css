@@ -272,6 +272,7 @@ small {
 }
 
 .articles .card .card-title {
+  cursor: pointer;
   font-size: 18px;
   transition: var(--transition);
 }
