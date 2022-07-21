@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [URL here](https://your-solution-url.com)
+- Solution URL: [URL here](https://www.frontendmentor.io/solutions/easybanklandingpage-using-bootstrap5-zFpr5DHLnb)
 - Live Site URL: [URL here](https://mbenmasour95.github.io/Easybank-landing-page/)
 
 ## My process
